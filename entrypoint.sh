@@ -1,2 +1,2 @@
 #! /bin/sh
-lilypond -l DEBUG *.ly 
+find -name '*.ly' | xargs lilypond
