@@ -1,2 +1,2 @@
 #! /bin/sh
-lilypond -l DEBUG music.ly 
+lilypond -l DEBUG *.ly 
